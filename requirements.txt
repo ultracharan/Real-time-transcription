@@ -1,4 +1,4 @@
 streamlit
 speechrecognition
-pyaudio
 --upgrade pip
+pyaudio
