@@ -13,7 +13,7 @@ This is a simple Python script that uses Streamlit and SpeechRecognition librari
 
 2. Install the required packages if you haven't already.
 
-3. Run the script by executing: `streamlit run <script_name>.py` (replace `<script_name>` with the actual name of the script file).
+3. Run the script by executing: `streamlit run app.py`
 
 4. Once the Streamlit app launches in your browser, you will see two buttons: "Start" and "Stop".
 
